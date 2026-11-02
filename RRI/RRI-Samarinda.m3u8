@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Indonesia",NAME="Programa 1",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro1.mp3"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Indonesia",NAME="Programa 2",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",URI="https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro2.mp3"
