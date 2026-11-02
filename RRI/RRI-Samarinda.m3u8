@@ -3,5 +3,4 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Indonesia",NAME="Programa 1",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro1.mp3"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="Indonesia",NAME="Programa 2",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",URI="https://stream-node1.rri.co.id/streaming/16/9116/rrisamarindapro2.mp3"
-#EXT-X-STREAM-INF:BANDWIDTH=500000,AVERAGE-BANDWIDTH=500000,RESOLUTION=1280x720,AUDIO="audio"
-https://github.com/WaTV248/ON-AIR/raw/refs/heads/main/RRI/RRI-LIVE.m3u8
+#EXT-X-IMAGE-STREAM-INF:CODECS="png",RESOLUTION=1280x720,AUDIO="audio",URI="https://github.com/WaTV248/ON-AIR/raw/refs/heads/main/RRI/RRI-LIVE.m3u8"
